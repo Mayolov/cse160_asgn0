@@ -1,5 +1,5 @@
 function main() {
-    // Initial setup - draw the canvas black
+    // Draw the canvas black
     var canvas = document.getElementById('example');
     if (!canvas) {
         console.log('Failed to retrieve the <canvas> element');
